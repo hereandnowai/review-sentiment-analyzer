@@ -1,0 +1,6 @@
+{
+  "name": "Review Sentiment Analyzer",
+  "description": "An application to analyze sentiment from performance reviews, identify trends, potential biases, and suggest areas for managerial improvement using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
